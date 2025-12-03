@@ -4,13 +4,14 @@ import joblib
 import pandas as pd
 import numpy as np
 import uvicorn
+from config import CHURN_MODEL_PATH, FEATURE_NAMES_PATH
 
 # --- 1. Caricamento Modello e Feature Names ---
 try:
     # Carica il modello addestrato (Random Forest)
-    model = joblib.load('churn_prediction_model.joblib')
+    model = joblib.load(CHURN_MODEL_PATH)
     # Carica l'ordine e i nomi delle feature
-    feature_names = joblib.load('feature_names.joblib')
+    feature_names = joblib.load(FEATURE_NAMES_PATH)
 except FileNotFoundError:
     print("ERRORE: Assicurati che 'churn_prediction_model.joblib' e 'feature_names.joblib' siano presenti.")
     exit()

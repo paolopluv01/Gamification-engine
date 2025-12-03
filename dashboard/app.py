@@ -6,14 +6,15 @@ from bokeh.plotting import figure, show
 from bokeh.models import ColumnDataSource, HoverTool, CategoricalColorMapper
 from bokeh.palettes import Category10
 from bokeh.transform import factor_cmap
+from config import CHURN_MODEL_PATH, FEATURE_NAMES_PATH, USER_FEATURES_PATH, USERS_BASE_PATH
 
 # --- 1. Caricamento Risorse ---
 try:
     # Carica il modello ML e le feature list
     # - Carica il modello di Machine Learning addestrato
-    model = joblib.load('churn_prediction_model.joblib')
-    feature_names = joblib.load('feature_names.joblib')
-    df_features = pd.read_csv('user_features_ml_ready.csv')
+    model = joblib.load(CHURN_MODEL_PATH)
+    feature_names = joblib.load(FEATURE_NAMES_PATH)
+    df_features = pd.read_csv(USER_FEATURES_PATH)
 except FileNotFoundError:
     st.error("Errore: Assicurati che 'churn_prediction_model.joblib', 'feature_names.joblib' e 'user_features_ml_ready.csv' siano presenti nella stessa directory.")
     st.stop()
@@ -71,7 +72,7 @@ with col1:
     # --- 3.1 Creazione del Data Source per Bokeh ---
 
     # Uniamo le feature ML al DataFrame originale degli utenti per includere la Categoria
-    df_bokeh = df_features.merge(pd.read_csv('gamification_users_base.csv')[
+    df_bokeh = df_features.merge(pd.read_csv( USERS_BASE_PATH)[
                                  ['UserID', 'Categoria']], on='UserID', how='left')
 
     # Convertiamo la colonna Churned in una stringa categorica per l'etichettatura

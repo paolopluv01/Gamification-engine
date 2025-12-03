@@ -1,0 +1,1001 @@
+UserID,Categoria,GiornoChurnSimulato
+U0001,Alto Engagement,120
+U0002,Basso Engagement/Alto Rischio,62
+U0003,Medio Engagement,102
+U0004,Medio Engagement,120
+U0005,Alto Engagement,99
+U0006,Alto Engagement,120
+U0007,Alto Engagement,120
+U0008,Basso Engagement/Alto Rischio,29
+U0009,Medio Engagement,120
+U0010,Medio Engagement,120
+U0011,Alto Engagement,120
+U0012,Basso Engagement/Alto Rischio,45
+U0013,Basso Engagement/Alto Rischio,51
+U0014,Alto Engagement,120
+U0015,Alto Engagement,120
+U0016,Alto Engagement,120
+U0017,Alto Engagement,120
+U0018,Medio Engagement,120
+U0019,Medio Engagement,91
+U0020,Alto Engagement,80
+U0021,Medio Engagement,93
+U0022,Alto Engagement,120
+U0023,Alto Engagement,120
+U0024,Alto Engagement,120
+U0025,Medio Engagement,63
+U0026,Medio Engagement,120
+U0027,Alto Engagement,103
+U0028,Medio Engagement,70
+U0029,Medio Engagement,92
+U0030,Alto Engagement,115
+U0031,Medio Engagement,91
+U0032,Alto Engagement,120
+U0033,Alto Engagement,120
+U0034,Basso Engagement/Alto Rischio,55
+U0035,Basso Engagement/Alto Rischio,47
+U0036,Basso Engagement/Alto Rischio,39
+U0037,Alto Engagement,120
+U0038,Alto Engagement,120
+U0039,Medio Engagement,120
+U0040,Medio Engagement,108
+U0041,Alto Engagement,120
+U0042,Medio Engagement,120
+U0043,Alto Engagement,120
+U0044,Basso Engagement/Alto Rischio,32
+U0045,Alto Engagement,120
+U0046,Medio Engagement,93
+U0047,Alto Engagement,120
+U0048,Medio Engagement,120
+U0049,Medio Engagement,86
+U0050,Alto Engagement,120
+U0051,Basso Engagement/Alto Rischio,46
+U0052,Medio Engagement,120
+U0053,Basso Engagement/Alto Rischio,28
+U0054,Basso Engagement/Alto Rischio,1
+U0055,Medio Engagement,72
+U0056,Basso Engagement/Alto Rischio,51
+U0057,Alto Engagement,120
+U0058,Alto Engagement,120
+U0059,Alto Engagement,120
+U0060,Alto Engagement,120
+U0061,Alto Engagement,120
+U0062,Alto Engagement,120
+U0063,Basso Engagement/Alto Rischio,58
+U0064,Alto Engagement,120
+U0065,Alto Engagement,120
+U0066,Medio Engagement,120
+U0067,Alto Engagement,120
+U0068,Basso Engagement/Alto Rischio,9
+U0069,Alto Engagement,120
+U0070,Basso Engagement/Alto Rischio,29
+U0071,Medio Engagement,120
+U0072,Alto Engagement,120
+U0073,Alto Engagement,90
+U0074,Basso Engagement/Alto Rischio,54
+U0075,Medio Engagement,120
+U0076,Medio Engagement,112
+U0077,Medio Engagement,114
+U0078,Alto Engagement,120
+U0079,Alto Engagement,120
+U0080,Alto Engagement,120
+U0081,Basso Engagement/Alto Rischio,75
+U0082,Medio Engagement,120
+U0083,Alto Engagement,120
+U0084,Alto Engagement,120
+U0085,Alto Engagement,120
+U0086,Alto Engagement,120
+U0087,Medio Engagement,114
+U0088,Medio Engagement,120
+U0089,Basso Engagement/Alto Rischio,45
+U0090,Medio Engagement,120
+U0091,Alto Engagement,120
+U0092,Medio Engagement,97
+U0093,Medio Engagement,65
+U0094,Medio Engagement,116
+U0095,Medio Engagement,120
+U0096,Medio Engagement,87
+U0097,Medio Engagement,120
+U0098,Medio Engagement,120
+U0099,Alto Engagement,120
+U0100,Alto Engagement,120
+U0101,Alto Engagement,120
+U0102,Medio Engagement,97
+U0103,Alto Engagement,120
+U0104,Medio Engagement,120
+U0105,Basso Engagement/Alto Rischio,34
+U0106,Alto Engagement,120
+U0107,Medio Engagement,120
+U0108,Medio Engagement,104
+U0109,Alto Engagement,120
+U0110,Alto Engagement,99
+U0111,Alto Engagement,120
+U0112,Alto Engagement,119
+U0113,Basso Engagement/Alto Rischio,42
+U0114,Basso Engagement/Alto Rischio,65
+U0115,Medio Engagement,111
+U0116,Basso Engagement/Alto Rischio,35
+U0117,Basso Engagement/Alto Rischio,33
+U0118,Alto Engagement,120
+U0119,Basso Engagement/Alto Rischio,37
+U0120,Medio Engagement,96
+U0121,Basso Engagement/Alto Rischio,30
+U0122,Basso Engagement/Alto Rischio,46
+U0123,Alto Engagement,120
+U0124,Alto Engagement,120
+U0125,Alto Engagement,120
+U0126,Medio Engagement,79
+U0127,Basso Engagement/Alto Rischio,69
+U0128,Basso Engagement/Alto Rischio,49
+U0129,Alto Engagement,120
+U0130,Medio Engagement,94
+U0131,Medio Engagement,71
+U0132,Alto Engagement,120
+U0133,Alto Engagement,120
+U0134,Alto Engagement,120
+U0135,Basso Engagement/Alto Rischio,41
+U0136,Alto Engagement,120
+U0137,Medio Engagement,120
+U0138,Medio Engagement,89
+U0139,Alto Engagement,112
+U0140,Basso Engagement/Alto Rischio,40
+U0141,Basso Engagement/Alto Rischio,21
+U0142,Alto Engagement,120
+U0143,Medio Engagement,120
+U0144,Alto Engagement,120
+U0145,Alto Engagement,120
+U0146,Alto Engagement,120
+U0147,Medio Engagement,57
+U0148,Medio Engagement,120
+U0149,Alto Engagement,120
+U0150,Alto Engagement,120
+U0151,Basso Engagement/Alto Rischio,58
+U0152,Alto Engagement,120
+U0153,Alto Engagement,120
+U0154,Medio Engagement,120
+U0155,Basso Engagement/Alto Rischio,43
+U0156,Alto Engagement,120
+U0157,Medio Engagement,40
+U0158,Medio Engagement,120
+U0159,Alto Engagement,120
+U0160,Medio Engagement,120
+U0161,Alto Engagement,120
+U0162,Medio Engagement,71
+U0163,Medio Engagement,120
+U0164,Medio Engagement,120
+U0165,Alto Engagement,120
+U0166,Basso Engagement/Alto Rischio,42
+U0167,Alto Engagement,120
+U0168,Alto Engagement,120
+U0169,Alto Engagement,120
+U0170,Medio Engagement,91
+U0171,Medio Engagement,117
+U0172,Alto Engagement,120
+U0173,Medio Engagement,120
+U0174,Alto Engagement,120
+U0175,Medio Engagement,120
+U0176,Alto Engagement,120
+U0177,Medio Engagement,120
+U0178,Alto Engagement,89
+U0179,Basso Engagement/Alto Rischio,92
+U0180,Alto Engagement,120
+U0181,Alto Engagement,120
+U0182,Alto Engagement,120
+U0183,Basso Engagement/Alto Rischio,49
+U0184,Basso Engagement/Alto Rischio,33
+U0185,Alto Engagement,120
+U0186,Medio Engagement,83
+U0187,Basso Engagement/Alto Rischio,38
+U0188,Medio Engagement,120
+U0189,Medio Engagement,63
+U0190,Alto Engagement,120
+U0191,Alto Engagement,120
+U0192,Basso Engagement/Alto Rischio,62
+U0193,Basso Engagement/Alto Rischio,46
+U0194,Medio Engagement,115
+U0195,Alto Engagement,120
+U0196,Alto Engagement,120
+U0197,Medio Engagement,83
+U0198,Basso Engagement/Alto Rischio,23
+U0199,Basso Engagement/Alto Rischio,58
+U0200,Medio Engagement,90
+U0201,Medio Engagement,120
+U0202,Alto Engagement,120
+U0203,Alto Engagement,120
+U0204,Basso Engagement/Alto Rischio,34
+U0205,Medio Engagement,120
+U0206,Alto Engagement,97
+U0207,Alto Engagement,120
+U0208,Medio Engagement,120
+U0209,Alto Engagement,120
+U0210,Alto Engagement,120
+U0211,Medio Engagement,76
+U0212,Medio Engagement,107
+U0213,Medio Engagement,120
+U0214,Alto Engagement,120
+U0215,Medio Engagement,120
+U0216,Alto Engagement,120
+U0217,Alto Engagement,120
+U0218,Medio Engagement,120
+U0219,Medio Engagement,120
+U0220,Basso Engagement/Alto Rischio,73
+U0221,Medio Engagement,120
+U0222,Medio Engagement,107
+U0223,Alto Engagement,120
+U0224,Alto Engagement,120
+U0225,Alto Engagement,120
+U0226,Alto Engagement,120
+U0227,Basso Engagement/Alto Rischio,61
+U0228,Alto Engagement,120
+U0229,Basso Engagement/Alto Rischio,38
+U0230,Medio Engagement,120
+U0231,Medio Engagement,113
+U0232,Medio Engagement,120
+U0233,Medio Engagement,120
+U0234,Medio Engagement,88
+U0235,Alto Engagement,120
+U0236,Medio Engagement,66
+U0237,Alto Engagement,120
+U0238,Alto Engagement,120
+U0239,Medio Engagement,46
+U0240,Alto Engagement,120
+U0241,Basso Engagement/Alto Rischio,64
+U0242,Basso Engagement/Alto Rischio,46
+U0243,Basso Engagement/Alto Rischio,57
+U0244,Alto Engagement,120
+U0245,Alto Engagement,120
+U0246,Basso Engagement/Alto Rischio,52
+U0247,Medio Engagement,120
+U0248,Basso Engagement/Alto Rischio,32
+U0249,Basso Engagement/Alto Rischio,35
+U0250,Basso Engagement/Alto Rischio,60
+U0251,Alto Engagement,120
+U0252,Alto Engagement,120
+U0253,Basso Engagement/Alto Rischio,39
+U0254,Alto Engagement,120
+U0255,Alto Engagement,120
+U0256,Medio Engagement,75
+U0257,Basso Engagement/Alto Rischio,38
+U0258,Medio Engagement,33
+U0259,Medio Engagement,120
+U0260,Alto Engagement,120
+U0261,Medio Engagement,120
+U0262,Basso Engagement/Alto Rischio,30
+U0263,Alto Engagement,120
+U0264,Medio Engagement,119
+U0265,Basso Engagement/Alto Rischio,51
+U0266,Medio Engagement,120
+U0267,Medio Engagement,120
+U0268,Medio Engagement,116
+U0269,Alto Engagement,120
+U0270,Alto Engagement,120
+U0271,Basso Engagement/Alto Rischio,75
+U0272,Basso Engagement/Alto Rischio,28
+U0273,Basso Engagement/Alto Rischio,45
+U0274,Basso Engagement/Alto Rischio,66
+U0275,Medio Engagement,120
+U0276,Medio Engagement,108
+U0277,Medio Engagement,120
+U0278,Medio Engagement,120
+U0279,Medio Engagement,93
+U0280,Medio Engagement,120
+U0281,Basso Engagement/Alto Rischio,43
+U0282,Alto Engagement,120
+U0283,Alto Engagement,120
+U0284,Alto Engagement,120
+U0285,Medio Engagement,113
+U0286,Alto Engagement,120
+U0287,Medio Engagement,89
+U0288,Medio Engagement,120
+U0289,Alto Engagement,120
+U0290,Medio Engagement,84
+U0291,Alto Engagement,120
+U0292,Alto Engagement,120
+U0293,Basso Engagement/Alto Rischio,51
+U0294,Alto Engagement,120
+U0295,Alto Engagement,98
+U0296,Medio Engagement,120
+U0297,Medio Engagement,119
+U0298,Alto Engagement,120
+U0299,Medio Engagement,120
+U0300,Alto Engagement,120
+U0301,Alto Engagement,120
+U0302,Medio Engagement,120
+U0303,Medio Engagement,118
+U0304,Medio Engagement,120
+U0305,Medio Engagement,120
+U0306,Basso Engagement/Alto Rischio,29
+U0307,Medio Engagement,120
+U0308,Alto Engagement,120
+U0309,Medio Engagement,120
+U0310,Alto Engagement,120
+U0311,Medio Engagement,67
+U0312,Alto Engagement,120
+U0313,Alto Engagement,120
+U0314,Basso Engagement/Alto Rischio,51
+U0315,Basso Engagement/Alto Rischio,42
+U0316,Medio Engagement,77
+U0317,Medio Engagement,107
+U0318,Alto Engagement,120
+U0319,Alto Engagement,120
+U0320,Alto Engagement,120
+U0321,Medio Engagement,95
+U0322,Medio Engagement,112
+U0323,Medio Engagement,120
+U0324,Alto Engagement,120
+U0325,Basso Engagement/Alto Rischio,59
+U0326,Medio Engagement,120
+U0327,Medio Engagement,117
+U0328,Medio Engagement,120
+U0329,Medio Engagement,120
+U0330,Alto Engagement,120
+U0331,Alto Engagement,120
+U0332,Medio Engagement,40
+U0333,Alto Engagement,120
+U0334,Alto Engagement,118
+U0335,Alto Engagement,120
+U0336,Alto Engagement,120
+U0337,Basso Engagement/Alto Rischio,62
+U0338,Medio Engagement,82
+U0339,Medio Engagement,114
+U0340,Alto Engagement,120
+U0341,Medio Engagement,71
+U0342,Medio Engagement,120
+U0343,Alto Engagement,88
+U0344,Medio Engagement,120
+U0345,Alto Engagement,120
+U0346,Medio Engagement,120
+U0347,Medio Engagement,111
+U0348,Alto Engagement,120
+U0349,Alto Engagement,120
+U0350,Medio Engagement,120
+U0351,Medio Engagement,120
+U0352,Basso Engagement/Alto Rischio,83
+U0353,Medio Engagement,106
+U0354,Alto Engagement,120
+U0355,Alto Engagement,120
+U0356,Medio Engagement,95
+U0357,Alto Engagement,120
+U0358,Medio Engagement,107
+U0359,Basso Engagement/Alto Rischio,53
+U0360,Medio Engagement,104
+U0361,Alto Engagement,93
+U0362,Medio Engagement,120
+U0363,Medio Engagement,120
+U0364,Medio Engagement,120
+U0365,Basso Engagement/Alto Rischio,49
+U0366,Alto Engagement,48
+U0367,Basso Engagement/Alto Rischio,47
+U0368,Basso Engagement/Alto Rischio,39
+U0369,Alto Engagement,120
+U0370,Alto Engagement,120
+U0371,Alto Engagement,118
+U0372,Alto Engagement,120
+U0373,Alto Engagement,120
+U0374,Medio Engagement,120
+U0375,Alto Engagement,120
+U0376,Alto Engagement,103
+U0377,Basso Engagement/Alto Rischio,50
+U0378,Alto Engagement,120
+U0379,Basso Engagement/Alto Rischio,40
+U0380,Alto Engagement,120
+U0381,Alto Engagement,120
+U0382,Medio Engagement,120
+U0383,Medio Engagement,120
+U0384,Basso Engagement/Alto Rischio,47
+U0385,Medio Engagement,60
+U0386,Basso Engagement/Alto Rischio,64
+U0387,Alto Engagement,120
+U0388,Alto Engagement,115
+U0389,Medio Engagement,17
+U0390,Basso Engagement/Alto Rischio,29
+U0391,Basso Engagement/Alto Rischio,62
+U0392,Medio Engagement,120
+U0393,Alto Engagement,88
+U0394,Medio Engagement,65
+U0395,Alto Engagement,120
+U0396,Basso Engagement/Alto Rischio,64
+U0397,Basso Engagement/Alto Rischio,43
+U0398,Medio Engagement,111
+U0399,Medio Engagement,73
+U0400,Medio Engagement,47
+U0401,Alto Engagement,120
+U0402,Basso Engagement/Alto Rischio,13
+U0403,Medio Engagement,120
+U0404,Basso Engagement/Alto Rischio,35
+U0405,Alto Engagement,120
+U0406,Basso Engagement/Alto Rischio,64
+U0407,Alto Engagement,120
+U0408,Alto Engagement,120
+U0409,Basso Engagement/Alto Rischio,44
+U0410,Alto Engagement,104
+U0411,Alto Engagement,120
+U0412,Basso Engagement/Alto Rischio,30
+U0413,Basso Engagement/Alto Rischio,37
+U0414,Medio Engagement,120
+U0415,Medio Engagement,96
+U0416,Medio Engagement,16
+U0417,Alto Engagement,120
+U0418,Alto Engagement,120
+U0419,Medio Engagement,98
+U0420,Medio Engagement,120
+U0421,Medio Engagement,60
+U0422,Medio Engagement,120
+U0423,Alto Engagement,120
+U0424,Medio Engagement,119
+U0425,Alto Engagement,120
+U0426,Medio Engagement,120
+U0427,Medio Engagement,120
+U0428,Basso Engagement/Alto Rischio,57
+U0429,Alto Engagement,120
+U0430,Alto Engagement,120
+U0431,Alto Engagement,120
+U0432,Medio Engagement,81
+U0433,Medio Engagement,120
+U0434,Alto Engagement,120
+U0435,Alto Engagement,120
+U0436,Medio Engagement,113
+U0437,Alto Engagement,120
+U0438,Basso Engagement/Alto Rischio,53
+U0439,Medio Engagement,118
+U0440,Alto Engagement,120
+U0441,Alto Engagement,120
+U0442,Basso Engagement/Alto Rischio,41
+U0443,Alto Engagement,120
+U0444,Alto Engagement,120
+U0445,Basso Engagement/Alto Rischio,39
+U0446,Basso Engagement/Alto Rischio,39
+U0447,Basso Engagement/Alto Rischio,31
+U0448,Medio Engagement,82
+U0449,Alto Engagement,120
+U0450,Alto Engagement,94
+U0451,Medio Engagement,102
+U0452,Medio Engagement,84
+U0453,Medio Engagement,113
+U0454,Basso Engagement/Alto Rischio,69
+U0455,Alto Engagement,120
+U0456,Medio Engagement,120
+U0457,Alto Engagement,120
+U0458,Medio Engagement,65
+U0459,Alto Engagement,120
+U0460,Alto Engagement,120
+U0461,Alto Engagement,120
+U0462,Medio Engagement,55
+U0463,Medio Engagement,120
+U0464,Medio Engagement,111
+U0465,Basso Engagement/Alto Rischio,40
+U0466,Alto Engagement,66
+U0467,Alto Engagement,120
+U0468,Basso Engagement/Alto Rischio,63
+U0469,Alto Engagement,34
+U0470,Basso Engagement/Alto Rischio,67
+U0471,Alto Engagement,84
+U0472,Basso Engagement/Alto Rischio,59
+U0473,Alto Engagement,120
+U0474,Basso Engagement/Alto Rischio,38
+U0475,Medio Engagement,93
+U0476,Basso Engagement/Alto Rischio,51
+U0477,Alto Engagement,120
+U0478,Medio Engagement,120
+U0479,Basso Engagement/Alto Rischio,44
+U0480,Medio Engagement,95
+U0481,Medio Engagement,120
+U0482,Medio Engagement,120
+U0483,Medio Engagement,100
+U0484,Medio Engagement,120
+U0485,Medio Engagement,95
+U0486,Basso Engagement/Alto Rischio,31
+U0487,Alto Engagement,120
+U0488,Alto Engagement,120
+U0489,Basso Engagement/Alto Rischio,49
+U0490,Basso Engagement/Alto Rischio,27
+U0491,Medio Engagement,120
+U0492,Medio Engagement,120
+U0493,Alto Engagement,120
+U0494,Alto Engagement,120
+U0495,Medio Engagement,120
+U0496,Alto Engagement,110
+U0497,Medio Engagement,120
+U0498,Alto Engagement,120
+U0499,Basso Engagement/Alto Rischio,62
+U0500,Basso Engagement/Alto Rischio,38
+U0501,Medio Engagement,120
+U0502,Medio Engagement,89
+U0503,Alto Engagement,120
+U0504,Basso Engagement/Alto Rischio,48
+U0505,Medio Engagement,120
+U0506,Alto Engagement,120
+U0507,Basso Engagement/Alto Rischio,49
+U0508,Basso Engagement/Alto Rischio,41
+U0509,Basso Engagement/Alto Rischio,53
+U0510,Medio Engagement,92
+U0511,Medio Engagement,120
+U0512,Medio Engagement,120
+U0513,Basso Engagement/Alto Rischio,37
+U0514,Basso Engagement/Alto Rischio,58
+U0515,Alto Engagement,120
+U0516,Alto Engagement,120
+U0517,Alto Engagement,57
+U0518,Basso Engagement/Alto Rischio,24
+U0519,Basso Engagement/Alto Rischio,46
+U0520,Alto Engagement,120
+U0521,Medio Engagement,105
+U0522,Alto Engagement,120
+U0523,Basso Engagement/Alto Rischio,74
+U0524,Basso Engagement/Alto Rischio,29
+U0525,Basso Engagement/Alto Rischio,34
+U0526,Medio Engagement,120
+U0527,Medio Engagement,66
+U0528,Alto Engagement,119
+U0529,Alto Engagement,120
+U0530,Basso Engagement/Alto Rischio,52
+U0531,Basso Engagement/Alto Rischio,47
+U0532,Basso Engagement/Alto Rischio,50
+U0533,Basso Engagement/Alto Rischio,52
+U0534,Medio Engagement,81
+U0535,Medio Engagement,120
+U0536,Basso Engagement/Alto Rischio,54
+U0537,Basso Engagement/Alto Rischio,61
+U0538,Alto Engagement,120
+U0539,Medio Engagement,93
+U0540,Alto Engagement,120
+U0541,Basso Engagement/Alto Rischio,51
+U0542,Medio Engagement,78
+U0543,Alto Engagement,120
+U0544,Medio Engagement,120
+U0545,Medio Engagement,120
+U0546,Alto Engagement,120
+U0547,Alto Engagement,120
+U0548,Medio Engagement,120
+U0549,Medio Engagement,120
+U0550,Medio Engagement,89
+U0551,Medio Engagement,63
+U0552,Basso Engagement/Alto Rischio,41
+U0553,Medio Engagement,120
+U0554,Medio Engagement,107
+U0555,Basso Engagement/Alto Rischio,55
+U0556,Medio Engagement,109
+U0557,Alto Engagement,120
+U0558,Alto Engagement,120
+U0559,Medio Engagement,120
+U0560,Medio Engagement,120
+U0561,Medio Engagement,120
+U0562,Alto Engagement,120
+U0563,Alto Engagement,120
+U0564,Alto Engagement,120
+U0565,Alto Engagement,120
+U0566,Medio Engagement,120
+U0567,Alto Engagement,120
+U0568,Medio Engagement,94
+U0569,Basso Engagement/Alto Rischio,73
+U0570,Alto Engagement,120
+U0571,Medio Engagement,120
+U0572,Medio Engagement,120
+U0573,Alto Engagement,120
+U0574,Medio Engagement,120
+U0575,Basso Engagement/Alto Rischio,43
+U0576,Basso Engagement/Alto Rischio,30
+U0577,Alto Engagement,120
+U0578,Basso Engagement/Alto Rischio,61
+U0579,Medio Engagement,120
+U0580,Alto Engagement,120
+U0581,Medio Engagement,120
+U0582,Basso Engagement/Alto Rischio,43
+U0583,Medio Engagement,120
+U0584,Alto Engagement,120
+U0585,Medio Engagement,120
+U0586,Alto Engagement,120
+U0587,Alto Engagement,120
+U0588,Alto Engagement,120
+U0589,Alto Engagement,120
+U0590,Alto Engagement,120
+U0591,Alto Engagement,120
+U0592,Medio Engagement,105
+U0593,Alto Engagement,120
+U0594,Alto Engagement,120
+U0595,Basso Engagement/Alto Rischio,12
+U0596,Medio Engagement,86
+U0597,Medio Engagement,78
+U0598,Alto Engagement,120
+U0599,Alto Engagement,120
+U0600,Alto Engagement,120
+U0601,Alto Engagement,120
+U0602,Alto Engagement,120
+U0603,Alto Engagement,120
+U0604,Alto Engagement,120
+U0605,Alto Engagement,120
+U0606,Medio Engagement,41
+U0607,Alto Engagement,118
+U0608,Alto Engagement,120
+U0609,Medio Engagement,120
+U0610,Medio Engagement,75
+U0611,Alto Engagement,79
+U0612,Medio Engagement,111
+U0613,Medio Engagement,108
+U0614,Alto Engagement,120
+U0615,Basso Engagement/Alto Rischio,57
+U0616,Basso Engagement/Alto Rischio,36
+U0617,Alto Engagement,120
+U0618,Alto Engagement,120
+U0619,Basso Engagement/Alto Rischio,43
+U0620,Medio Engagement,120
+U0621,Alto Engagement,120
+U0622,Alto Engagement,106
+U0623,Alto Engagement,92
+U0624,Medio Engagement,120
+U0625,Medio Engagement,120
+U0626,Alto Engagement,120
+U0627,Medio Engagement,96
+U0628,Medio Engagement,113
+U0629,Alto Engagement,120
+U0630,Alto Engagement,120
+U0631,Medio Engagement,120
+U0632,Basso Engagement/Alto Rischio,49
+U0633,Medio Engagement,110
+U0634,Medio Engagement,120
+U0635,Alto Engagement,120
+U0636,Medio Engagement,120
+U0637,Medio Engagement,120
+U0638,Alto Engagement,120
+U0639,Alto Engagement,120
+U0640,Alto Engagement,120
+U0641,Alto Engagement,120
+U0642,Alto Engagement,120
+U0643,Alto Engagement,85
+U0644,Alto Engagement,120
+U0645,Alto Engagement,120
+U0646,Basso Engagement/Alto Rischio,47
+U0647,Medio Engagement,120
+U0648,Medio Engagement,120
+U0649,Medio Engagement,120
+U0650,Medio Engagement,68
+U0651,Alto Engagement,120
+U0652,Medio Engagement,120
+U0653,Medio Engagement,93
+U0654,Medio Engagement,98
+U0655,Medio Engagement,120
+U0656,Alto Engagement,120
+U0657,Alto Engagement,120
+U0658,Alto Engagement,120
+U0659,Medio Engagement,120
+U0660,Medio Engagement,120
+U0661,Alto Engagement,120
+U0662,Basso Engagement/Alto Rischio,55
+U0663,Medio Engagement,120
+U0664,Alto Engagement,120
+U0665,Alto Engagement,120
+U0666,Alto Engagement,120
+U0667,Alto Engagement,120
+U0668,Alto Engagement,120
+U0669,Alto Engagement,120
+U0670,Alto Engagement,9
+U0671,Alto Engagement,120
+U0672,Basso Engagement/Alto Rischio,38
+U0673,Alto Engagement,75
+U0674,Medio Engagement,120
+U0675,Medio Engagement,120
+U0676,Basso Engagement/Alto Rischio,52
+U0677,Alto Engagement,120
+U0678,Alto Engagement,112
+U0679,Basso Engagement/Alto Rischio,41
+U0680,Basso Engagement/Alto Rischio,56
+U0681,Basso Engagement/Alto Rischio,54
+U0682,Alto Engagement,102
+U0683,Alto Engagement,120
+U0684,Medio Engagement,120
+U0685,Basso Engagement/Alto Rischio,30
+U0686,Medio Engagement,120
+U0687,Medio Engagement,49
+U0688,Alto Engagement,120
+U0689,Medio Engagement,120
+U0690,Alto Engagement,120
+U0691,Alto Engagement,120
+U0692,Medio Engagement,120
+U0693,Medio Engagement,120
+U0694,Alto Engagement,120
+U0695,Alto Engagement,120
+U0696,Medio Engagement,120
+U0697,Alto Engagement,103
+U0698,Medio Engagement,114
+U0699,Alto Engagement,120
+U0700,Medio Engagement,71
+U0701,Medio Engagement,111
+U0702,Alto Engagement,120
+U0703,Alto Engagement,86
+U0704,Alto Engagement,120
+U0705,Alto Engagement,120
+U0706,Basso Engagement/Alto Rischio,61
+U0707,Alto Engagement,120
+U0708,Basso Engagement/Alto Rischio,36
+U0709,Alto Engagement,120
+U0710,Medio Engagement,85
+U0711,Medio Engagement,96
+U0712,Medio Engagement,120
+U0713,Medio Engagement,120
+U0714,Medio Engagement,120
+U0715,Alto Engagement,120
+U0716,Basso Engagement/Alto Rischio,57
+U0717,Basso Engagement/Alto Rischio,50
+U0718,Basso Engagement/Alto Rischio,72
+U0719,Alto Engagement,120
+U0720,Medio Engagement,72
+U0721,Basso Engagement/Alto Rischio,41
+U0722,Alto Engagement,120
+U0723,Alto Engagement,120
+U0724,Medio Engagement,120
+U0725,Medio Engagement,120
+U0726,Basso Engagement/Alto Rischio,39
+U0727,Alto Engagement,120
+U0728,Medio Engagement,95
+U0729,Alto Engagement,120
+U0730,Alto Engagement,120
+U0731,Alto Engagement,120
+U0732,Basso Engagement/Alto Rischio,44
+U0733,Medio Engagement,114
+U0734,Medio Engagement,120
+U0735,Alto Engagement,120
+U0736,Basso Engagement/Alto Rischio,40
+U0737,Alto Engagement,120
+U0738,Basso Engagement/Alto Rischio,56
+U0739,Medio Engagement,88
+U0740,Alto Engagement,120
+U0741,Medio Engagement,120
+U0742,Alto Engagement,120
+U0743,Medio Engagement,115
+U0744,Medio Engagement,120
+U0745,Alto Engagement,120
+U0746,Basso Engagement/Alto Rischio,20
+U0747,Alto Engagement,120
+U0748,Medio Engagement,84
+U0749,Basso Engagement/Alto Rischio,29
+U0750,Medio Engagement,102
+U0751,Alto Engagement,120
+U0752,Basso Engagement/Alto Rischio,28
+U0753,Medio Engagement,120
+U0754,Alto Engagement,120
+U0755,Alto Engagement,60
+U0756,Medio Engagement,105
+U0757,Medio Engagement,120
+U0758,Medio Engagement,104
+U0759,Basso Engagement/Alto Rischio,59
+U0760,Medio Engagement,120
+U0761,Alto Engagement,120
+U0762,Alto Engagement,120
+U0763,Alto Engagement,120
+U0764,Medio Engagement,120
+U0765,Alto Engagement,6
+U0766,Medio Engagement,63
+U0767,Medio Engagement,49
+U0768,Basso Engagement/Alto Rischio,70
+U0769,Alto Engagement,120
+U0770,Basso Engagement/Alto Rischio,43
+U0771,Alto Engagement,120
+U0772,Basso Engagement/Alto Rischio,42
+U0773,Alto Engagement,120
+U0774,Alto Engagement,117
+U0775,Medio Engagement,58
+U0776,Alto Engagement,120
+U0777,Alto Engagement,116
+U0778,Medio Engagement,120
+U0779,Medio Engagement,97
+U0780,Medio Engagement,120
+U0781,Medio Engagement,97
+U0782,Medio Engagement,120
+U0783,Alto Engagement,120
+U0784,Alto Engagement,120
+U0785,Alto Engagement,120
+U0786,Basso Engagement/Alto Rischio,46
+U0787,Medio Engagement,120
+U0788,Medio Engagement,120
+U0789,Medio Engagement,120
+U0790,Basso Engagement/Alto Rischio,62
+U0791,Alto Engagement,120
+U0792,Medio Engagement,120
+U0793,Medio Engagement,120
+U0794,Medio Engagement,120
+U0795,Alto Engagement,120
+U0796,Basso Engagement/Alto Rischio,31
+U0797,Basso Engagement/Alto Rischio,48
+U0798,Medio Engagement,120
+U0799,Medio Engagement,97
+U0800,Basso Engagement/Alto Rischio,59
+U0801,Medio Engagement,87
+U0802,Alto Engagement,120
+U0803,Medio Engagement,119
+U0804,Medio Engagement,113
+U0805,Medio Engagement,101
+U0806,Medio Engagement,120
+U0807,Basso Engagement/Alto Rischio,52
+U0808,Basso Engagement/Alto Rischio,47
+U0809,Medio Engagement,120
+U0810,Alto Engagement,120
+U0811,Basso Engagement/Alto Rischio,60
+U0812,Basso Engagement/Alto Rischio,4
+U0813,Alto Engagement,120
+U0814,Basso Engagement/Alto Rischio,55
+U0815,Basso Engagement/Alto Rischio,35
+U0816,Medio Engagement,120
+U0817,Medio Engagement,120
+U0818,Alto Engagement,120
+U0819,Alto Engagement,120
+U0820,Alto Engagement,120
+U0821,Basso Engagement/Alto Rischio,17
+U0822,Alto Engagement,120
+U0823,Alto Engagement,120
+U0824,Alto Engagement,120
+U0825,Medio Engagement,74
+U0826,Basso Engagement/Alto Rischio,52
+U0827,Alto Engagement,120
+U0828,Alto Engagement,111
+U0829,Medio Engagement,112
+U0830,Medio Engagement,91
+U0831,Alto Engagement,120
+U0832,Medio Engagement,45
+U0833,Alto Engagement,111
+U0834,Alto Engagement,120
+U0835,Medio Engagement,116
+U0836,Medio Engagement,115
+U0837,Basso Engagement/Alto Rischio,65
+U0838,Alto Engagement,120
+U0839,Medio Engagement,120
+U0840,Medio Engagement,120
+U0841,Alto Engagement,120
+U0842,Medio Engagement,79
+U0843,Alto Engagement,120
+U0844,Basso Engagement/Alto Rischio,42
+U0845,Alto Engagement,120
+U0846,Medio Engagement,120
+U0847,Alto Engagement,120
+U0848,Basso Engagement/Alto Rischio,59
+U0849,Medio Engagement,120
+U0850,Medio Engagement,120
+U0851,Alto Engagement,120
+U0852,Medio Engagement,110
+U0853,Alto Engagement,120
+U0854,Basso Engagement/Alto Rischio,69
+U0855,Alto Engagement,120
+U0856,Alto Engagement,120
+U0857,Alto Engagement,120
+U0858,Medio Engagement,81
+U0859,Medio Engagement,105
+U0860,Alto Engagement,106
+U0861,Medio Engagement,120
+U0862,Medio Engagement,120
+U0863,Medio Engagement,120
+U0864,Medio Engagement,100
+U0865,Medio Engagement,75
+U0866,Medio Engagement,120
+U0867,Alto Engagement,120
+U0868,Alto Engagement,120
+U0869,Basso Engagement/Alto Rischio,64
+U0870,Basso Engagement/Alto Rischio,69
+U0871,Alto Engagement,120
+U0872,Alto Engagement,120
+U0873,Medio Engagement,49
+U0874,Medio Engagement,120
+U0875,Alto Engagement,120
+U0876,Alto Engagement,120
+U0877,Medio Engagement,114
+U0878,Medio Engagement,101
+U0879,Alto Engagement,120
+U0880,Alto Engagement,120
+U0881,Alto Engagement,114
+U0882,Medio Engagement,56
+U0883,Alto Engagement,93
+U0884,Alto Engagement,120
+U0885,Medio Engagement,120
+U0886,Alto Engagement,120
+U0887,Medio Engagement,98
+U0888,Alto Engagement,120
+U0889,Alto Engagement,50
+U0890,Alto Engagement,120
+U0891,Medio Engagement,73
+U0892,Basso Engagement/Alto Rischio,56
+U0893,Basso Engagement/Alto Rischio,46
+U0894,Alto Engagement,100
+U0895,Medio Engagement,5
+U0896,Alto Engagement,120
+U0897,Alto Engagement,120
+U0898,Basso Engagement/Alto Rischio,20
+U0899,Alto Engagement,120
+U0900,Alto Engagement,120
+U0901,Alto Engagement,120
+U0902,Alto Engagement,120
+U0903,Alto Engagement,30
+U0904,Medio Engagement,118
+U0905,Medio Engagement,120
+U0906,Basso Engagement/Alto Rischio,41
+U0907,Basso Engagement/Alto Rischio,32
+U0908,Alto Engagement,120
+U0909,Alto Engagement,96
+U0910,Alto Engagement,81
+U0911,Medio Engagement,120
+U0912,Alto Engagement,120
+U0913,Medio Engagement,101
+U0914,Medio Engagement,95
+U0915,Medio Engagement,120
+U0916,Medio Engagement,80
+U0917,Alto Engagement,120
+U0918,Basso Engagement/Alto Rischio,77
+U0919,Medio Engagement,120
+U0920,Alto Engagement,120
+U0921,Basso Engagement/Alto Rischio,42
+U0922,Medio Engagement,120
+U0923,Basso Engagement/Alto Rischio,46
+U0924,Medio Engagement,120
+U0925,Medio Engagement,115
+U0926,Alto Engagement,120
+U0927,Alto Engagement,120
+U0928,Medio Engagement,111
+U0929,Medio Engagement,84
+U0930,Alto Engagement,120
+U0931,Alto Engagement,120
+U0932,Basso Engagement/Alto Rischio,53
+U0933,Basso Engagement/Alto Rischio,45
+U0934,Medio Engagement,86
+U0935,Alto Engagement,120
+U0936,Alto Engagement,120
+U0937,Alto Engagement,120
+U0938,Basso Engagement/Alto Rischio,70
+U0939,Alto Engagement,120
+U0940,Medio Engagement,110
+U0941,Alto Engagement,120
+U0942,Medio Engagement,120
+U0943,Medio Engagement,120
+U0944,Basso Engagement/Alto Rischio,35
+U0945,Alto Engagement,78
+U0946,Alto Engagement,120
+U0947,Alto Engagement,120
+U0948,Basso Engagement/Alto Rischio,47
+U0949,Basso Engagement/Alto Rischio,33
+U0950,Medio Engagement,87
+U0951,Medio Engagement,120
+U0952,Medio Engagement,109
+U0953,Alto Engagement,113
+U0954,Basso Engagement/Alto Rischio,25
+U0955,Medio Engagement,119
+U0956,Alto Engagement,120
+U0957,Medio Engagement,90
+U0958,Alto Engagement,120
+U0959,Alto Engagement,120
+U0960,Medio Engagement,23
+U0961,Alto Engagement,85
+U0962,Medio Engagement,120
+U0963,Alto Engagement,120
+U0964,Alto Engagement,120
+U0965,Alto Engagement,120
+U0966,Alto Engagement,120
+U0967,Medio Engagement,120
+U0968,Alto Engagement,120
+U0969,Medio Engagement,108
+U0970,Medio Engagement,120
+U0971,Medio Engagement,120
+U0972,Basso Engagement/Alto Rischio,35
+U0973,Medio Engagement,57
+U0974,Alto Engagement,120
+U0975,Alto Engagement,120
+U0976,Alto Engagement,99
+U0977,Medio Engagement,98
+U0978,Alto Engagement,120
+U0979,Medio Engagement,120
+U0980,Medio Engagement,69
+U0981,Alto Engagement,120
+U0982,Medio Engagement,120
+U0983,Alto Engagement,84
+U0984,Alto Engagement,120
+U0985,Medio Engagement,65
+U0986,Medio Engagement,120
+U0987,Medio Engagement,118
+U0988,Medio Engagement,55
+U0989,Alto Engagement,120
+U0990,Basso Engagement/Alto Rischio,44
+U0991,Medio Engagement,120
+U0992,Medio Engagement,90
+U0993,Alto Engagement,120
+U0994,Medio Engagement,87
+U0995,Alto Engagement,120
+U0996,Alto Engagement,120
+U0997,Basso Engagement/Alto Rischio,38
+U0998,Alto Engagement,120
+U0999,Basso Engagement/Alto Rischio,34
+U1000,Medio Engagement,120
