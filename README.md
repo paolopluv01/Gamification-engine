@@ -12,3 +12,6 @@ The "Gamification-engine" repository appears to be designed as a behavioral gami
    - A simulation database is used for handling and visualizing user interactions.
 
 The project demonstrates an integrated architecture combining data insights, predictive analytics, and gamification strategies to encourage user engagement.
+
+Collaborate.
+Support from collaborators is welcome.
